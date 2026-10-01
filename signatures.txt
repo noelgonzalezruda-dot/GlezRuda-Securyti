@@ -1,4 +1,4 @@
 # GlezRuda Security V1.6 - firmas SHA-256
 # Formato: SHA256,nombre_de_amenaza
 # Publique este archivo en la rama main del repositorio GlezRuda-Securyti.
-d2f963a006e404f066dab115dc5a794f6230cea61d874332c5c4d17d1be503c5,GlezRuda-Test-Safe
+
